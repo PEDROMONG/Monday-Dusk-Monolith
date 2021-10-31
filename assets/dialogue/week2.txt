@@ -1,0 +1,8 @@
+:bf:Wow! So nice of the lemon monster to let us go after a visit, huh?
+:gf:I know right? Although…shouldn’t we save the kids?
+:bf:Nah, I think they’ll be fine! Plus, they seem to be happy there.
+:cmd_infected:
+:lila:…
+:lila:Flesh Monster… Why did you let those flies go even after I specifically told you to handle them?
+:monster:...
+:monster:Oh.

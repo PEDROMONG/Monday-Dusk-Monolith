@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="runner_assets.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="springtrap0000" x="10" y="10" width="458" height="768"/>
+	<SubTexture name="springtrap0001" x="10" y="10" width="458" height="768"/>
+	<SubTexture name="springtrap0002" x="478" y="10" width="458" height="768"/>
+	<SubTexture name="springtrap0003" x="478" y="10" width="458" height="768"/>
+	<SubTexture name="springtrap0004" x="946" y="10" width="458" height="768"/>
+	<SubTexture name="springtrap0005" x="946" y="10" width="458" height="768"/>
+	<SubTexture name="springtrap0006" x="1414" y="10" width="458" height="768"/>
+	<SubTexture name="springtrap0007" x="1414" y="10" width="458" height="768"/>
+	<SubTexture name="springtrap0008" x="1882" y="10" width="458" height="768"/>
+	<SubTexture name="springtrap0009" x="1882" y="10" width="458" height="768"/>
+	<SubTexture name="springtrap0010" x="2350" y="10" width="458" height="768"/>
+	<SubTexture name="springtrap0011" x="2350" y="10" width="458" height="768"/>
+	<SubTexture name="springtrap0012" x="2818" y="10" width="458" height="768"/>
+	<SubTexture name="springtrap0013" x="2818" y="10" width="458" height="768"/>
+	<SubTexture name="springtrap0014" x="3286" y="10" width="458" height="768"/>
+	<SubTexture name="springtrap0015" x="3286" y="10" width="458" height="768"/>
+	<SubTexture name="springtrap0016" x="10" y="788" width="458" height="768"/>
+	<SubTexture name="springtrap0017" x="10" y="788" width="458" height="768"/>
+	<SubTexture name="springtrap0018" x="478" y="788" width="458" height="768"/>
+	<SubTexture name="springtrap0019" x="478" y="788" width="458" height="768"/>
+	<SubTexture name="springtrap0020" x="946" y="788" width="458" height="768"/>
+	<SubTexture name="springtrap0021" x="946" y="788" width="458" height="768"/>
+	<SubTexture name="springtrap0022" x="1414" y="788" width="458" height="768"/>
+	<SubTexture name="springtrap0023" x="1414" y="788" width="458" height="768"/>
+	<SubTexture name="springtrap0024" x="1882" y="788" width="458" height="768"/>
+	<SubTexture name="springtrap0025" x="1882" y="788" width="458" height="768"/>
+	<SubTexture name="springtrap0026" x="2350" y="788" width="458" height="768"/>
+	<SubTexture name="springtrap0027" x="2350" y="788" width="458" height="768"/>
+	<SubTexture name="springtrap0028" x="2818" y="788" width="458" height="768"/>
+	<SubTexture name="springtrap0029" x="2818" y="788" width="458" height="768"/>
+	<SubTexture name="springtrap0030" x="3286" y="788" width="458" height="768"/>
+	<SubTexture name="springtrap0031" x="3286" y="788" width="458" height="768"/>
+	<SubTexture name="springtrap0032" x="10" y="1566" width="458" height="768"/>
+	<SubTexture name="springtrap0033" x="10" y="1566" width="458" height="768"/>
+	<SubTexture name="springtrap0034" x="478" y="1566" width="458" height="768"/>
+	<SubTexture name="springtrap0035" x="478" y="1566" width="458" height="768"/>
+	<SubTexture name="springtrap0036" x="946" y="1566" width="458" height="768"/>
+	<SubTexture name="springtrap0037" x="946" y="1566" width="458" height="768"/>
+</TextureAtlas>

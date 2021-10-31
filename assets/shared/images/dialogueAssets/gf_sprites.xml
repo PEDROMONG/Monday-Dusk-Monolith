@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf sprites.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf angry0000" x="24" y="24" width="451" height="492"/>
+	<SubTexture name="gf confident0000" x="558" y="24" width="418" height="408"/>
+	<SubTexture name="gf confused0000" x="1059" y="24" width="452" height="455"/>
+	<SubTexture name="gf normal0000" x="1594" y="24" width="436" height="507"/>
+	<SubTexture name="gf surprised0000" x="2113" y="24" width="473" height="517"/>
+	<SubTexture name="gf worried0000" x="2669" y="24" width="452" height="455"/>
+</TextureAtlas>

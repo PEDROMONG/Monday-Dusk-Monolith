@@ -1,0 +1,29 @@
+:startmusic:Cannot_Surrender
+:gf:So, tell me about this friend of yours!
+:bf:Oh, we go WAY back…he's a nice fella.
+:bf:He can be a bit...rash...but overall, he's super cool!! We even dated before, but we’re good friends now!
+:gf:Aw, that sounds lovely~
+:playsound:gunShot
+:bfconfused:Wait hold on, I think I heard a gunshot somewhere nearby, let’s investigate it.
+:bf:HEY! YOU THERE IN THE CLOAK!
+:cmd_infected:
+:picocloak:...Is someone nearby?
+:picocloak:Who goes there!?
+:cmd_normal:
+:bfconfused:Wait…
+:bfscared:That voice...
+:bfsurprised:P-Pico?
+:bfconcerned:What happened to you?
+:cmd_infected:
+:picocloak:A familiar voice… Yet I can’t seem to wrap my head around it. Who are you?
+:cmd_normal:
+:bfconcerned:D-Don’t you remember? It’s me! Boyfriend! We used to hang out before!
+:cmd_infected:
+:picocloak:…
+:picocloak:I’m sorry, I do not have a recollection of who is speaking right now.
+:picocloak:I’m sensing another monster nearby, whoever you are please evacuate immediately.
+:cmd_normal:
+:bfsurprised:N-NO! That’s just my Girlfriend! And I’m not going anywhere without you!
+:bfscared:I don’t wanna lose you again…
+:cmd_infected:
+:picocloak:…

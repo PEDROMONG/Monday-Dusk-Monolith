@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MDM_Week_2_background_2 2.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name=" Background 2 lighting0000" x="0" y="0" width="2163" height="1131" frameX="-12" frameY="-18" frameWidth="2188" frameHeight="1184"/>
+	<SubTexture name=" Background 2 lighting0001" x="2163" y="0" width="2163" height="1131" frameX="-12" frameY="-18" frameWidth="2188" frameHeight="1184"/>
+	<SubTexture name=" Background 2 lighting0002" x="2163" y="0" width="2163" height="1131" frameX="-12" frameY="-18" frameWidth="2188" frameHeight="1184"/>
+	<SubTexture name=" Background 2 lighting0003" x="2163" y="0" width="2163" height="1131" frameX="-12" frameY="-18" frameWidth="2188" frameHeight="1184"/>
+	<SubTexture name=" Background 2 lighting0004" x="4326" y="0" width="2163" height="1166" frameX="-12" frameY="-18" frameWidth="2188" frameHeight="1184"/>
+	<SubTexture name=" Background 2 lighting0005" x="0" y="1166" width="2163" height="1131" frameX="-12" frameY="-18" frameWidth="2188" frameHeight="1184"/>
+	<SubTexture name=" Background 2 lighting0006" x="0" y="1166" width="2163" height="1131" frameX="-12" frameY="-18" frameWidth="2188" frameHeight="1184"/>
+	<SubTexture name=" Background 2 lighting0007" x="2163" y="1166" width="2163" height="1184" frameX="-12" frameY="0" frameWidth="2188" frameHeight="1184"/>
+	<SubTexture name=" Background 2 lighting0008" x="4326" y="1166" width="2163" height="1184" frameX="-12" frameY="0" frameWidth="2188" frameHeight="1184"/>
+	<SubTexture name=" Background 2 lighting0009" x="0" y="2350" width="2188" height="1172" frameX="0" frameY="-12" frameWidth="2188" frameHeight="1184"/>
+	<SubTexture name=" Background 2 lighting0010" x="2188" y="2350" width="2188" height="1172" frameX="0" frameY="-12" frameWidth="2188" frameHeight="1184"/>
+	<SubTexture name=" Background 2 lighting0011" x="4376" y="2350" width="2163" height="1166" frameX="-12" frameY="-18" frameWidth="2188" frameHeight="1184"/>
+	<SubTexture name="Idle0000" x="0" y="0" width="2163" height="1131" frameX="0" frameY="0" frameWidth="2188" frameHeight="1184"/>
+</TextureAtlas>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="story_assets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="0 BEAT0000" x="2" y="2" width="334" height="388"/>
+	<SubTexture name="0 NORMAL0000" x="338" y="2" width="336" height="391"/>
+	<SubTexture name="1 BEAT0000" x="676" y="2" width="358" height="396"/>
+	<SubTexture name="1 NORMAL0000" x="1036" y="2" width="361" height="393"/>
+	<SubTexture name="2 BEAT0000" x="1399" y="2" width="371" height="391"/>
+	<SubTexture name="2 NORMAL0000" x="2" y="400" width="371" height="396"/>
+	<SubTexture name="3 BEAT0000" x="375" y="400" width="322" height="389"/>
+	<SubTexture name="3 NORMAL0000" x="699" y="400" width="321" height="389"/>
+</TextureAtlas>

@@ -1,0 +1,20 @@
+:startmusic:As_Spooky_as_Ever
+:cmd_infectedopen:
+:skidumpcrying:WAAAAAAAH! This isn’t spooky! This is Scary!!
+:cmd_normal:
+:bf:Sorry, kiddos! But I really have an important job out there! And it looks like you kids need a pair of Twix! Cuz you two need to snap and split out of there!
+:cmd_infected:
+:endmusic:
+:startmusic:Protective
+:lila:...Who dares to harm my children?
+:skidumpcrying:Momma! The guests aren’t doing the spooky dance! And they’re being mean to us!!
+:cmd_normal:
+:gf:...All we did was out-rap them, with a reality-check of course.
+:cmd_infected:
+:lilaangry:QUIET. You dare invade our home...and proceed to harm MY kids?
+:lilaangry:You ROTTEN pile of flesh… I’ll have you hung up upon my ceiling while you both BEG for the relief of death…
+:lila:Until then… I’ll feed you brats to my children. Only then you both will do something useful for once.
+:cmd_normal:
+:bfready:We’ll see about that, spider lady! You’ll be squashed like the bug you are after this sick rap battle that I'm about to spew out!
+:cmd_infected:
+:lilaangry:ENOUGH! HAVE AT YOU!

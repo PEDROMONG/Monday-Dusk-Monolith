@@ -1,0 +1,23 @@
+:bf:This should be the house…
+:bfsurprised:JESUS CHRIST! Why is it so smelly in here? Did someone forget to flush?
+:gfworried:I think it’s the smell of…rotting flesh…as judged by those blood stains near the stairs...
+:bfconcerned:And…are those spider cocoons??
+:bfscared:I know we have freaky monsters, but I didn't expect to have xenomorphs in here!
+:cmd_infected:
+:skidumpcheer:HELLO FRENS!!
+:cmd_normal:
+:gfsurprised:AH!
+:bfsurprised:WHAT THE-
+:cmd_infected:
+:skidump:Welcome to our home!! Are you two here to trick-or-treat!?
+:cmd_normal:
+:startmusic:As_Spooky_as_Ever
+:bfconcerned:T-Trick-or-treat…? Why would we be trick-or-treating at this time?
+:cmd_infected:
+:skidumpcheer:Why, because it is the SPOOKY MONTH of course!!
+:cmd_normal:
+:gf:Oh! These must be the spooky kids the neighbors were on about! They seem to be…a lot closer now…
+:cmd_infected:
+:skidump:Of course! All thanks to The Stars!
+:cmd_normal:
+:bf:Sorry kids! I don’t know what yer on about, but it’s July!

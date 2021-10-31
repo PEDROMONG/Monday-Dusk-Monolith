@@ -1,0 +1,13 @@
+:cmd_infectedopen:
+:picoshocked:…
+:cmd_normal:
+:bfconcerned:..You good Pico?
+:cmd_infected:
+:picopissed:RAAAAAAAAAAAH!!
+:cmd_normal:
+:bfsurprised:WOAHWOAHWOAH WAIT PICO-
+:gfsurprised:Not so fast!
+:gfworried:Oops, might went a bit too much.
+:bfscared:Phew… That was close… We should take him home, maybe he’ll be normal again once he wakes up.
+:gf:Just be sure to clean up the mark on his face, hehe.
+

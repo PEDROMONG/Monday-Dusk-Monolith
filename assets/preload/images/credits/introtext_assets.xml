@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="introtext_assets.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="devs0000" x="10" y="10" width="700" height="500"/>
+	<SubTexture name="special thanks0000" x="720" y="10" width="700" height="500"/>
+</TextureAtlas>

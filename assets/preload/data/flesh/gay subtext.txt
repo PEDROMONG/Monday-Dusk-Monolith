@@ -1,0 +1,11 @@
+:cmd_infectedopen:
+:lilaangry:GAH! THIS IS NONSENSE. I CAN’T LOSE TO SOME BLUE-HAIRED BRAT!
+:cmd_normal:
+:bf: Oh c’mon, just admit it...
+:bfready:YOU JUST LOST YOURSELF IN YOUR OWN WEBS!!
+:cmd_infected:
+:lilaangry:SILENCE! ILL RIP OUT YOUR INNARDS AND CONSUME THEM IN FRONT OF THE WHORE YOU CALL YOUR GIRLFRIEND!
+:cmd_normal:
+:gfangry:*GASPS* >:O
+:cmd_infected:
+:fleshscary:Honey, I’m home~!

@@ -1,0 +1,12 @@
+:startmusic:Ambiance
+:gf:Go Boyfriend! That's my hero!
+:cmd_infected:
+:dadhappy:This is...unbelievably effective! The pain is still there, but it seems like the infection is slowing down!
+:cmd_normal:
+:bfready:That's what I'm talking about! With this method, we can save the entire world and kick that space-stone's ass!
+:cmd_infected:
+:dadhappy:Heh, not bad, kid... Guess I thought too low of ya.
+:dadhappy:Never thought going back to my old career would help save the world...
+:dadshine:Well, let's give it one final shot! Let's get this shit out of me!
+:cmd_normal:
+:bfready:Alright then! Give us your best shot!

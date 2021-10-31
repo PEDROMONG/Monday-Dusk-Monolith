@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="discord_credit_assets.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="credits basic0000" x="10" y="10" width="474" height="126"/>
+	<SubTexture name="credits basic0001" x="10" y="10" width="474" height="126"/>
+	<SubTexture name="credits basic0002" x="10" y="10" width="474" height="126"/>
+	<SubTexture name="credits basic0003" x="494" y="10" width="474" height="126"/>
+	<SubTexture name="credits basic0004" x="494" y="10" width="474" height="126"/>
+	<SubTexture name="credits basic0005" x="494" y="10" width="474" height="126"/>
+	<SubTexture name="credits basic0006" x="978" y="10" width="474" height="126"/>
+	<SubTexture name="credits basic0007" x="978" y="10" width="474" height="126"/>
+	<SubTexture name="credits basic0008" x="978" y="10" width="474" height="126"/>
+	<SubTexture name="credits white0000" x="10" y="146" width="652" height="172"/>
+	<SubTexture name="credits white0001" x="672" y="146" width="652" height="172"/>
+	<SubTexture name="credits white0002" x="1334" y="146" width="652" height="172"/>
+	<SubTexture name="discord basic0000" x="10" y="328" width="503" height="134"/>
+	<SubTexture name="discord basic0001" x="10" y="328" width="503" height="134"/>
+	<SubTexture name="discord basic0002" x="523" y="328" width="503" height="134"/>
+	<SubTexture name="discord basic0003" x="523" y="328" width="503" height="134"/>
+	<SubTexture name="discord basic0004" x="10" y="328" width="503" height="134"/>
+	<SubTexture name="discord basic0005" x="10" y="328" width="503" height="134"/>
+	<SubTexture name="discord white0000" x="1036" y="328" width="560" height="146"/>
+	<SubTexture name="discord white0001" x="10" y="484" width="560" height="146"/>
+	<SubTexture name="discord white0002" x="580" y="484" width="560" height="146"/>
+</TextureAtlas>

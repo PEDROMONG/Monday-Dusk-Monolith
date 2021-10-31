@@ -1,0 +1,10 @@
+:startmusic:Ambiance
+:gf:Yeah, you got it! See? I told you it would work!
+:cmd_infected:
+:dad:What the...
+:dadrestrain:This is BULLSHIT. How the hell is singing gonna save the infection?
+:dadrestrain:If anything, it just hurts me more… This idea is complete nonsense.
+:cmd_normal:
+:gf:That means it's working! I was like that too. If it's hurting, that means the infection dislikes it!
+:bf:If that's not enough, then we'll keep going 'til it's enough!
+:bfready:Try not to fall apart now, gramps!

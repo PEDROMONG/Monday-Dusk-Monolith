@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MOTHERFUCKER.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf_concerned instance 1" x="0" y="0" width="492" height="444"/>
+	<SubTexture name="bf_confused instance 1" x="492" y="0" width="466" height="431"/>
+	<SubTexture name="bf_neutral instance 1" x="958" y="0" width="492" height="494"/>
+	<SubTexture name="bf_ready instance 1" x="1450" y="0" width="549" height="373"/>
+	<SubTexture name="bf_scared instance 1" x="0" y="494" width="492" height="444"/>
+	<SubTexture name="bf_surprised instance 1" x="492" y="494" width="524" height="465"/>
+</TextureAtlas>

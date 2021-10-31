@@ -1,0 +1,14 @@
+:startmusic:Small_Victories_Big_Changes
+:gf:So…feeling better?
+:cmd_infected:
+:dadhappy:You were right! I feel so much better now!
+:dadhappy:...though it seems like my mutated form is still here. At least the pain is completely gone.
+:cmd_normal:
+:bf:We told ya it would work! Looks like we can really go out and be heroes!
+:cmd_infected:
+:dadhappy:Thanks alot kiddos, this surely is a miracle. You guys go out there and make me proud!
+:dadhappy:Seems like my old job isn’t so useless, now. Off to work for me.
+:dadhappy:If you need anything, just call me.
+:cmd_normal:
+:gf:You got it dad! Let’s go BF, time to save the world!
+:bf:Beep bo skee!

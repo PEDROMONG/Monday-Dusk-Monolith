@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mdmtextbox_assets.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="infected textbox enter0000" x="10" y="10" width="767" height="483" frameX="-1" frameY="0" frameWidth="1393" frameHeight="501"/>
+	<SubTexture name="infected textbox enter0001" x="10" y="10" width="767" height="483" frameX="-1" frameY="0" frameWidth="1393" frameHeight="501"/>
+	<SubTexture name="infected textbox enter0002" x="787" y="10" width="1393" height="479" frameX="0" frameY="-22" frameWidth="1393" frameHeight="501"/>
+	<SubTexture name="infected textbox enter0003" x="787" y="10" width="1393" height="479" frameX="0" frameY="-22" frameWidth="1393" frameHeight="501"/>
+	<SubTexture name="infected textbox enter0004" x="2190" y="10" width="1202" height="461" frameX="0" frameY="-22" frameWidth="1393" frameHeight="501"/>
+	<SubTexture name="textbox enter0000" x="10" y="503" width="767" height="483" frameX="-1" frameY="0" frameWidth="1393" frameHeight="501"/>
+	<SubTexture name="textbox enter0001" x="10" y="503" width="767" height="483" frameX="-1" frameY="0" frameWidth="1393" frameHeight="501"/>
+	<SubTexture name="textbox enter0002" x="787" y="503" width="1393" height="479" frameX="0" frameY="-22" frameWidth="1393" frameHeight="501"/>
+	<SubTexture name="textbox enter0003" x="787" y="503" width="1393" height="479" frameX="0" frameY="-22" frameWidth="1393" frameHeight="501"/>
+	<SubTexture name="textbox enter0004" x="2190" y="503" width="1202" height="461" frameX="0" frameY="-22" frameWidth="1393" frameHeight="501"/>
+</TextureAtlas>

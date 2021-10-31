@@ -1,0 +1,6 @@
+:cmd_infectedopen:
+:picocloak:AUGH! WHAT THE…
+:cmd_normal:
+:bf:C’mon Pico! Get a hold of yourself! Please remember!
+:cmd_infected:
+:picocloak:S-STAY AWAY FROM ME!!

@@ -1,0 +1,26 @@
+:startmusic:Ambiance
+:gf:Alright, looks like we're set to go! Let's get this big news to my dad; he used to be a scientist so this might help a lot!
+:bfsurprised:Wait, your dad was a scientist?? I thought he was an ex-rockstar??
+:gf:Oh, haha...well, he's full of surprises! Plus he didn't really like his old job anyway...
+:bfready:Well...let's not waste any more time then, time to-
+:cmd_infected:
+:dadrestrain:…
+:cmd_normal:
+:bfsurprised:Oh, what the-!
+:gfsurprised:D-dad?? What are you doing here??
+:cmd_infected:
+:dad:That's supposed to be my question. What the HELL are you two doing here...?
+:cmd_normal:
+:gfconfused:Wait, are you...infected?
+:cmd_infected:
+:dadrestrain:I'm afraid I am...and I won't be able to hold back much longer...
+:dadrestrain:I've been trying to find you… Oh god, not you too...
+:cmd_normal:
+:gfworried:No dad, I'm okay, I promise! BF actually helped me out, so it's not that bad! 
+:gf:Infact, we were just about to inform you that we have a solution! And with you being like this, we can demonstrate it too!
+:bfready:Yeah! and you're gonna love it!
+:cmd_infected:
+:dadrestrain:What are you talking about? I need you both to get out of here, you'll get yourselves killed!
+:cmd_normal:
+:gfconfident:Nuh-uh, not without us helping you out first! C'mon darling, show him what you got!
+:bfready:Beep!

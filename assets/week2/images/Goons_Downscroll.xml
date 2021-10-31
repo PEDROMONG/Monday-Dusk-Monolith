@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Goons_Downscroll.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Goons Downscroll0000" x="0" y="0" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0001" x="561" y="0" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0002" x="1122" y="0" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0003" x="1683" y="0" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0004" x="2244" y="0" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0005" x="2805" y="0" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0006" x="3366" y="0" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0007" x="3927" y="0" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0008" x="4488" y="0" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0009" x="5049" y="0" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0010" x="5610" y="0" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0011" x="6171" y="0" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0012" x="6732" y="0" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0013" x="7293" y="0" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0014" x="0" y="695" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0015" x="561" y="695" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0016" x="1122" y="695" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0017" x="1683" y="695" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0018" x="2244" y="695" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0019" x="2805" y="695" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0020" x="3366" y="695" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0021" x="3927" y="695" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0022" x="4488" y="695" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0023" x="5049" y="695" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0024" x="5610" y="695" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0025" x="6171" y="695" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0026" x="6732" y="695" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0027" x="7293" y="695" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0028" x="0" y="1390" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0029" x="561" y="1390" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0030" x="1122" y="1390" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0031" x="1683" y="1390" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0032" x="2244" y="1390" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0033" x="2805" y="1390" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0034" x="3366" y="1390" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0035" x="3927" y="1390" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0036" x="4488" y="1390" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0037" x="5049" y="1390" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0038" x="5610" y="1390" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0039" x="6171" y="1390" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0040" x="6732" y="1390" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0041" x="7293" y="1390" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0042" x="0" y="2085" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0043" x="561" y="2085" width="544" height="678"/>
+	<SubTexture name="Goons Downscroll0044" x="1122" y="2085" width="544" height="678"/>
+</TextureAtlas>

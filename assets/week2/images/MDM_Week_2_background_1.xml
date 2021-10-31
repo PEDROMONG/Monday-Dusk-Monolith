@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MDM_Week_2_background_1.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Background lighting0000" x="0" y="0" width="2367" height="1221"/>
+	<SubTexture name="Background lighting0001" x="2377" y="0" width="2367" height="1221"/>
+	<SubTexture name="Background lighting0002" x="4754" y="0" width="2367" height="1221"/>
+	<SubTexture name="Background lighting0003" x="0" y="1231" width="2367" height="1221"/>
+	<SubTexture name="Background lighting0004" x="2377" y="1231" width="2367" height="1221"/>
+	<SubTexture name="Background lighting0005" x="4754" y="1231" width="2367" height="1221"/>
+	<SubTexture name="Background lighting0006" x="0" y="2462" width="2367" height="1221"/>
+	<SubTexture name="Background lighting0007" x="2377" y="2462" width="2367" height="1221"/>
+	<SubTexture name="Background lighting0008" x="4754" y="2462" width="2367" height="1221"/>
+	<SubTexture name="Background lighting0009" x="0" y="3693" width="2367" height="1221"/>
+	<SubTexture name="Background lighting0010" x="2377" y="3693" width="2367" height="1221"/>
+	<SubTexture name="Background lighting0011" x="4754" y="3693" width="2367" height="1221"/>
+	<SubTexture name="Background lighting0012" x="0" y="4924" width="2367" height="1221"/>
+	<SubTexture name="Background lighting0013" x="2377" y="4924" width="2367" height="1221"/>
+	<SubTexture name="Background lighting0014" x="4754" y="4924" width="2367" height="1221"/>
+</TextureAtlas>

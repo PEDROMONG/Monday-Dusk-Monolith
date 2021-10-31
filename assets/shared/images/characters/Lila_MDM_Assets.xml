@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Lila_MDM_Assets.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LILA DOWN POSE0000" x="0" y="0" width="1118" height="684"/>
+	<SubTexture name="LILA DOWN POSE0001" x="1135" y="0" width="1118" height="684"/>
+	<SubTexture name="LILA DOWN POSE0002" x="2270" y="0" width="1118" height="683" frameX="0" frameY="-1" frameWidth="1118" frameHeight="684"/>
+	<SubTexture name="LILA DOWN POSE0003" x="2270" y="0" width="1118" height="683" frameX="0" frameY="-1" frameWidth="1118" frameHeight="684"/>
+	<SubTexture name="LILA DOWN POSE0004" x="3405" y="0" width="1118" height="684"/>
+	<SubTexture name="LILA DOWN POSE0005" x="3405" y="0" width="1118" height="684"/>
+	<SubTexture name="LILA DOWN POSE0006" x="3405" y="0" width="1118" height="684"/>
+	<SubTexture name="LILA DOWN POSE0007" x="3405" y="0" width="1118" height="684"/>
+	<SubTexture name="LILA DOWN POSE0008" x="3405" y="0" width="1118" height="684"/>
+	<SubTexture name="LILA DOWN POSE0009" x="3405" y="0" width="1118" height="684"/>
+	<SubTexture name="LILA DOWN POSE0010" x="3405" y="0" width="1118" height="684"/>
+	<SubTexture name="LILA DOWN POSE0011" x="3405" y="0" width="1118" height="684"/>
+	<SubTexture name="LILA DOWN POSE0012" x="3405" y="0" width="1118" height="684"/>
+	<SubTexture name="LILA DOWN POSE0013" x="3405" y="0" width="1118" height="684"/>
+	<SubTexture name="LILA DOWN POSE0014" x="3405" y="0" width="1118" height="684"/>
+	<SubTexture name="LILA DOWN POSE0015" x="3405" y="0" width="1118" height="684"/>
+	<SubTexture name="LILA DOWN POSE0016" x="3405" y="0" width="1118" height="684"/>
+	<SubTexture name="LILA DOWN POSE0017" x="3405" y="0" width="1118" height="684"/>
+	<SubTexture name="LILA DOWN POSE0018" x="3405" y="0" width="1118" height="684"/>
+	<SubTexture name="LILA DOWN POSE0019" x="3405" y="0" width="1118" height="684"/>
+	<SubTexture name="LILA DOWN POSE0020" x="3405" y="0" width="1118" height="684"/>
+	<SubTexture name="LILA DOWN POSE0021" x="3405" y="0" width="1118" height="684"/>
+	<SubTexture name="LILA DOWN POSE0022" x="3405" y="0" width="1118" height="684"/>
+	<SubTexture name="LILA DOWN POSE0023" x="3405" y="0" width="1118" height="684"/>
+	<SubTexture name="LILA DOWN POSE0024" x="3405" y="0" width="1118" height="684"/>
+	<SubTexture name="LILA DOWN POSE0025" x="3405" y="0" width="1118" height="684"/>
+	<SubTexture name="LILA DOWN POSE0026" x="3405" y="0" width="1118" height="684"/>
+	<SubTexture name="LILA DOWN POSE0027" x="3405" y="0" width="1118" height="684"/>
+	<SubTexture name="LILA DOWN POSE0028" x="3405" y="0" width="1118" height="684"/>
+	<SubTexture name="LILA DOWN POSE0029" x="3405" y="0" width="1118" height="684"/>
+	<SubTexture name="LILA DOWN POSE0030" x="3405" y="0" width="1118" height="684"/>
+	<SubTexture name="LILA IDLE0000" x="4540" y="0" width="1146" height="781" frameX="0" frameY="-89" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0001" x="4540" y="0" width="1146" height="781" frameX="0" frameY="-89" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0002" x="4540" y="0" width="1146" height="781" frameX="0" frameY="-89" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0003" x="4540" y="0" width="1146" height="781" frameX="0" frameY="-89" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0004" x="4540" y="0" width="1146" height="781" frameX="0" frameY="-89" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0005" x="5703" y="0" width="1146" height="740" frameX="0" frameY="-130" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0006" x="5703" y="0" width="1146" height="740" frameX="0" frameY="-130" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0007" x="6866" y="0" width="1149" height="702" frameX="0" frameY="-168" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0008" x="6866" y="0" width="1149" height="702" frameX="0" frameY="-168" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0009" x="0" y="798" width="1149" height="695" frameX="0" frameY="-175" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0010" x="0" y="798" width="1149" height="695" frameX="0" frameY="-175" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0011" x="1166" y="798" width="1149" height="695" frameX="0" frameY="-175" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0012" x="1166" y="798" width="1149" height="695" frameX="0" frameY="-175" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0013" x="2332" y="798" width="1145" height="707" frameX="-1" frameY="-164" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0014" x="2332" y="798" width="1145" height="707" frameX="-1" frameY="-164" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0015" x="3494" y="798" width="1145" height="723" frameX="-1" frameY="-148" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0016" x="3494" y="798" width="1145" height="723" frameX="-1" frameY="-148" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0017" x="4656" y="798" width="1145" height="795" frameX="-1" frameY="-76" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0018" x="4656" y="798" width="1145" height="795" frameX="-1" frameY="-76" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0019" x="5818" y="798" width="1146" height="864" frameX="0" frameY="-6" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0020" x="5818" y="798" width="1146" height="864" frameX="0" frameY="-6" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0021" x="6981" y="798" width="1146" height="870" frameX="0" frameY="0" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0022" x="6981" y="798" width="1146" height="870" frameX="0" frameY="0" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0023" x="0" y="1685" width="1146" height="830" frameX="0" frameY="-40" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0024" x="0" y="1685" width="1146" height="830" frameX="0" frameY="-40" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0025" x="1163" y="1685" width="1146" height="799" frameX="0" frameY="-71" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0026" x="1163" y="1685" width="1146" height="799" frameX="0" frameY="-71" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0027" x="2326" y="1685" width="1146" height="740" frameX="0" frameY="-130" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0028" x="2326" y="1685" width="1146" height="740" frameX="0" frameY="-130" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0029" x="3489" y="1685" width="1146" height="782" frameX="0" frameY="-88" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0030" x="3489" y="1685" width="1146" height="782" frameX="0" frameY="-88" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0031" x="4652" y="1685" width="1146" height="790" frameX="0" frameY="-80" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0032" x="4652" y="1685" width="1146" height="790" frameX="0" frameY="-80" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0033" x="5815" y="1685" width="1146" height="783" frameX="0" frameY="-87" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0034" x="5815" y="1685" width="1146" height="783" frameX="0" frameY="-87" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0035" x="4540" y="0" width="1146" height="781" frameX="0" frameY="-89" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0036" x="4540" y="0" width="1146" height="781" frameX="0" frameY="-89" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0037" x="4540" y="0" width="1146" height="781" frameX="0" frameY="-89" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0038" x="4540" y="0" width="1146" height="781" frameX="0" frameY="-89" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0039" x="4540" y="0" width="1146" height="781" frameX="0" frameY="-89" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0040" x="4540" y="0" width="1146" height="781" frameX="0" frameY="-89" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0041" x="4540" y="0" width="1146" height="781" frameX="0" frameY="-89" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0042" x="4540" y="0" width="1146" height="781" frameX="0" frameY="-89" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA IDLE0043" x="4540" y="0" width="1146" height="781" frameX="0" frameY="-89" frameWidth="1149" frameHeight="871"/>
+	<SubTexture name="LILA LEFT POSE0000" x="6978" y="1685" width="1139" height="781"/>
+	<SubTexture name="LILA LEFT POSE0001" x="6978" y="1685" width="1139" height="781"/>
+	<SubTexture name="LILA LEFT POSE0002" x="0" y="2532" width="1135" height="781" frameX="-3" frameY="0" frameWidth="1139" frameHeight="781"/>
+	<SubTexture name="LILA LEFT POSE0003" x="0" y="2532" width="1135" height="781" frameX="-3" frameY="0" frameWidth="1139" frameHeight="781"/>
+	<SubTexture name="LILA LEFT POSE0004" x="1152" y="2532" width="1121" height="773" frameX="-5" frameY="-8" frameWidth="1139" frameHeight="781"/>
+	<SubTexture name="LILA LEFT POSE0005" x="2290" y="2532" width="1125" height="769" frameX="-6" frameY="-12" frameWidth="1139" frameHeight="781"/>
+	<SubTexture name="LILA LEFT POSE0006" x="3432" y="2532" width="1125" height="758" frameX="-6" frameY="-23" frameWidth="1139" frameHeight="781"/>
+	<SubTexture name="LILA LEFT POSE0007" x="4574" y="2532" width="1125" height="754" frameX="-6" frameY="-27" frameWidth="1139" frameHeight="781"/>
+	<SubTexture name="LILA LEFT POSE0008" x="5716" y="2532" width="1125" height="753" frameX="-6" frameY="-28" frameWidth="1139" frameHeight="781"/>
+	<SubTexture name="LILA LEFT POSE0009" x="6858" y="2532" width="1125" height="756" frameX="-6" frameY="-25" frameWidth="1139" frameHeight="781"/>
+	<SubTexture name="LILA LEFT POSE0010" x="0" y="3330" width="1125" height="756" frameX="-6" frameY="-25" frameWidth="1139" frameHeight="781"/>
+	<SubTexture name="LILA LEFT POSE0011" x="1142" y="3330" width="1125" height="756" frameX="-6" frameY="-25" frameWidth="1139" frameHeight="781"/>
+	<SubTexture name="LILA LEFT POSE0012" x="1142" y="3330" width="1125" height="756" frameX="-6" frameY="-25" frameWidth="1139" frameHeight="781"/>
+	<SubTexture name="LILA LEFT POSE0013" x="1142" y="3330" width="1125" height="756" frameX="-6" frameY="-25" frameWidth="1139" frameHeight="781"/>
+	<SubTexture name="LILA LEFT POSE0014" x="1142" y="3330" width="1125" height="756" frameX="-6" frameY="-25" frameWidth="1139" frameHeight="781"/>
+	<SubTexture name="LILA LEFT POSE0015" x="1142" y="3330" width="1125" height="756" frameX="-6" frameY="-25" frameWidth="1139" frameHeight="781"/>
+	<SubTexture name="LILA LEFT POSE0016" x="1142" y="3330" width="1125" height="756" frameX="-6" frameY="-25" frameWidth="1139" frameHeight="781"/>
+	<SubTexture name="LILA LEFT POSE0017" x="1142" y="3330" width="1125" height="756" frameX="-6" frameY="-25" frameWidth="1139" frameHeight="781"/>
+	<SubTexture name="LILA LEFT POSE0018" x="1142" y="3330" width="1125" height="756" frameX="-6" frameY="-25" frameWidth="1139" frameHeight="781"/>
+	<SubTexture name="LILA RIGHT POSE0000" x="2284" y="3330" width="1396" height="743" frameX="0" frameY="-6" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0001" x="2284" y="3330" width="1396" height="743" frameX="0" frameY="-6" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0002" x="3697" y="3330" width="1335" height="745" frameX="-16" frameY="-4" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0003" x="5049" y="3330" width="1238" height="746" frameX="-53" frameY="-3" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0004" x="6304" y="3330" width="1183" height="749" frameX="-68" frameY="0" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0005" x="0" y="4103" width="1183" height="749" frameX="-68" frameY="0" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0006" x="1200" y="4103" width="1249" height="747" frameX="-38" frameY="-2" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0007" x="2466" y="4103" width="1249" height="747" frameX="-38" frameY="-2" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0008" x="3732" y="4103" width="1276" height="747" frameX="-26" frameY="-2" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0009" x="3732" y="4103" width="1276" height="747" frameX="-26" frameY="-2" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0010" x="3732" y="4103" width="1276" height="747" frameX="-26" frameY="-2" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0011" x="3732" y="4103" width="1276" height="747" frameX="-26" frameY="-2" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0012" x="3732" y="4103" width="1276" height="747" frameX="-26" frameY="-2" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0013" x="3732" y="4103" width="1276" height="747" frameX="-26" frameY="-2" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0014" x="3732" y="4103" width="1276" height="747" frameX="-26" frameY="-2" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0015" x="3732" y="4103" width="1276" height="747" frameX="-26" frameY="-2" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0016" x="3732" y="4103" width="1276" height="747" frameX="-26" frameY="-2" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0017" x="3732" y="4103" width="1276" height="747" frameX="-26" frameY="-2" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0018" x="3732" y="4103" width="1276" height="747" frameX="-26" frameY="-2" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0019" x="3732" y="4103" width="1276" height="747" frameX="-26" frameY="-2" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0020" x="3732" y="4103" width="1276" height="747" frameX="-26" frameY="-2" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0021" x="3732" y="4103" width="1276" height="747" frameX="-26" frameY="-2" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0022" x="3732" y="4103" width="1276" height="747" frameX="-26" frameY="-2" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0023" x="3732" y="4103" width="1276" height="747" frameX="-26" frameY="-2" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0024" x="3732" y="4103" width="1276" height="747" frameX="-26" frameY="-2" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0025" x="3732" y="4103" width="1276" height="747" frameX="-26" frameY="-2" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0026" x="3732" y="4103" width="1276" height="747" frameX="-26" frameY="-2" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0027" x="3732" y="4103" width="1276" height="747" frameX="-26" frameY="-2" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0028" x="3732" y="4103" width="1276" height="747" frameX="-26" frameY="-2" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0029" x="3732" y="4103" width="1276" height="747" frameX="-26" frameY="-2" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0030" x="3732" y="4103" width="1276" height="747" frameX="-26" frameY="-2" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0031" x="3732" y="4103" width="1276" height="747" frameX="-26" frameY="-2" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0032" x="3732" y="4103" width="1276" height="747" frameX="-26" frameY="-2" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0033" x="3732" y="4103" width="1276" height="747" frameX="-26" frameY="-2" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0034" x="3732" y="4103" width="1276" height="747" frameX="-26" frameY="-2" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0035" x="3732" y="4103" width="1276" height="747" frameX="-26" frameY="-2" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0036" x="3732" y="4103" width="1276" height="747" frameX="-26" frameY="-2" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0037" x="3732" y="4103" width="1276" height="747" frameX="-26" frameY="-2" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0038" x="3732" y="4103" width="1276" height="747" frameX="-26" frameY="-2" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0039" x="3732" y="4103" width="1276" height="747" frameX="-26" frameY="-2" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0040" x="3732" y="4103" width="1276" height="747" frameX="-26" frameY="-2" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0041" x="3732" y="4103" width="1276" height="747" frameX="-26" frameY="-2" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0042" x="3732" y="4103" width="1276" height="747" frameX="-26" frameY="-2" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA RIGHT POSE0043" x="3732" y="4103" width="1276" height="747" frameX="-26" frameY="-2" frameWidth="1396" frameHeight="749"/>
+	<SubTexture name="LILA UP POSE0000" x="5025" y="4103" width="1146" height="852" frameX="0" frameY="-6" frameWidth="1146" frameHeight="858"/>
+	<SubTexture name="LILA UP POSE0001" x="6188" y="4103" width="1146" height="858"/>
+	<SubTexture name="LILA UP POSE0002" x="0" y="4978" width="1146" height="830" frameX="0" frameY="-28" frameWidth="1146" frameHeight="858"/>
+	<SubTexture name="LILA UP POSE0003" x="1163" y="4978" width="1146" height="782" frameX="0" frameY="-76" frameWidth="1146" frameHeight="858"/>
+	<SubTexture name="LILA UP POSE0004" x="2326" y="4978" width="1146" height="795" frameX="0" frameY="-63" frameWidth="1146" frameHeight="858"/>
+	<SubTexture name="LILA UP POSE0005" x="3489" y="4978" width="1146" height="795" frameX="0" frameY="-63" frameWidth="1146" frameHeight="858"/>
+	<SubTexture name="LILA UP POSE0006" x="4652" y="4978" width="1146" height="795" frameX="0" frameY="-63" frameWidth="1146" frameHeight="858"/>
+	<SubTexture name="LILA UP POSE0007" x="5815" y="4978" width="1146" height="795" frameX="0" frameY="-63" frameWidth="1146" frameHeight="858"/>
+	<SubTexture name="LILA UP POSE0008" x="5815" y="4978" width="1146" height="795" frameX="0" frameY="-63" frameWidth="1146" frameHeight="858"/>
+	<SubTexture name="LILA UP POSE0009" x="5815" y="4978" width="1146" height="795" frameX="0" frameY="-63" frameWidth="1146" frameHeight="858"/>
+	<SubTexture name="LILA UP POSE0010" x="5815" y="4978" width="1146" height="795" frameX="0" frameY="-63" frameWidth="1146" frameHeight="858"/>
+	<SubTexture name="LILA UP POSE0011" x="5815" y="4978" width="1146" height="795" frameX="0" frameY="-63" frameWidth="1146" frameHeight="858"/>
+	<SubTexture name="LILA UP POSE0012" x="5815" y="4978" width="1146" height="795" frameX="0" frameY="-63" frameWidth="1146" frameHeight="858"/>
+	<SubTexture name="LILA UP POSE0013" x="5815" y="4978" width="1146" height="795" frameX="0" frameY="-63" frameWidth="1146" frameHeight="858"/>
+	<SubTexture name="LILA UP POSE0014" x="5815" y="4978" width="1146" height="795" frameX="0" frameY="-63" frameWidth="1146" frameHeight="858"/>
+	<SubTexture name="LILA UP POSE0015" x="5815" y="4978" width="1146" height="795" frameX="0" frameY="-63" frameWidth="1146" frameHeight="858"/>
+	<SubTexture name="LILA UP POSE0016" x="5815" y="4978" width="1146" height="795" frameX="0" frameY="-63" frameWidth="1146" frameHeight="858"/>
+	<SubTexture name="LILA UP POSE0017" x="5815" y="4978" width="1146" height="795" frameX="0" frameY="-63" frameWidth="1146" frameHeight="858"/>
+	<SubTexture name="LILA UP POSE0018" x="5815" y="4978" width="1146" height="795" frameX="0" frameY="-63" frameWidth="1146" frameHeight="858"/>
+	<SubTexture name="LILA UP POSE0019" x="5815" y="4978" width="1146" height="795" frameX="0" frameY="-63" frameWidth="1146" frameHeight="858"/>
+	<SubTexture name="LILA UP POSE0020" x="5815" y="4978" width="1146" height="795" frameX="0" frameY="-63" frameWidth="1146" frameHeight="858"/>
+	<SubTexture name="LILA UP POSE0021" x="5815" y="4978" width="1146" height="795" frameX="0" frameY="-63" frameWidth="1146" frameHeight="858"/>
+	<SubTexture name="LILA UP POSE0022" x="5815" y="4978" width="1146" height="795" frameX="0" frameY="-63" frameWidth="1146" frameHeight="858"/>
+	<SubTexture name="LILA UP POSE0023" x="5815" y="4978" width="1146" height="795" frameX="0" frameY="-63" frameWidth="1146" frameHeight="858"/>
+	<SubTexture name="LILA UP POSE0024" x="5815" y="4978" width="1146" height="795" frameX="0" frameY="-63" frameWidth="1146" frameHeight="858"/>
+	<SubTexture name="LILA UP POSE0025" x="5815" y="4978" width="1146" height="795" frameX="0" frameY="-63" frameWidth="1146" frameHeight="858"/>
+	<SubTexture name="LILA UP POSE0026" x="5815" y="4978" width="1146" height="795" frameX="0" frameY="-63" frameWidth="1146" frameHeight="858"/>
+	<SubTexture name="LILA UP POSE0027" x="5815" y="4978" width="1146" height="795" frameX="0" frameY="-63" frameWidth="1146" frameHeight="858"/>
+	<SubTexture name="LILA UP POSE0028" x="5815" y="4978" width="1146" height="795" frameX="0" frameY="-63" frameWidth="1146" frameHeight="858"/>
+	<SubTexture name="LILA UP POSE0029" x="5815" y="4978" width="1146" height="795" frameX="0" frameY="-63" frameWidth="1146" frameHeight="858"/>
+	<SubTexture name="LILA UP POSE0030" x="5815" y="4978" width="1146" height="795" frameX="0" frameY="-63" frameWidth="1146" frameHeight="858"/>
+	<SubTexture name="LILA UP POSE0031" x="5815" y="4978" width="1146" height="795" frameX="0" frameY="-63" frameWidth="1146" frameHeight="858"/>
+	<SubTexture name="LILA UP POSE0032" x="5815" y="4978" width="1146" height="795" frameX="0" frameY="-63" frameWidth="1146" frameHeight="858"/>
+	<SubTexture name="LILA UP POSE0033" x="5815" y="4978" width="1146" height="795" frameX="0" frameY="-63" frameWidth="1146" frameHeight="858"/>
+	<SubTexture name="LILA UP POSE0034" x="5815" y="4978" width="1146" height="795" frameX="0" frameY="-63" frameWidth="1146" frameHeight="858"/>
+	<SubTexture name="LILA UP POSE0035" x="5815" y="4978" width="1146" height="795" frameX="0" frameY="-63" frameWidth="1146" frameHeight="858"/>
+	<SubTexture name="LILA UP POSE0036" x="5815" y="4978" width="1146" height="795" frameX="0" frameY="-63" frameWidth="1146" frameHeight="858"/>
+	<SubTexture name="LILA UP POSE0037" x="5815" y="4978" width="1146" height="795" frameX="0" frameY="-63" frameWidth="1146" frameHeight="858"/>
+	<SubTexture name="LILA UP POSE0038" x="5815" y="4978" width="1146" height="795" frameX="0" frameY="-63" frameWidth="1146" frameHeight="858"/>
+	<SubTexture name="LILA UP POSE0039" x="5815" y="4978" width="1146" height="795" frameX="0" frameY="-63" frameWidth="1146" frameHeight="858"/>
+	<SubTexture name="LILA UP POSE0040" x="5815" y="4978" width="1146" height="795" frameX="0" frameY="-63" frameWidth="1146" frameHeight="858"/>
+	<SubTexture name="LILA UP POSE0041" x="5815" y="4978" width="1146" height="795" frameX="0" frameY="-63" frameWidth="1146" frameHeight="858"/>
+	<SubTexture name="LILA UP POSE0042" x="5815" y="4978" width="1146" height="795" frameX="0" frameY="-63" frameWidth="1146" frameHeight="858"/>
+	<SubTexture name="LILA UP POSE0043" x="5815" y="4978" width="1146" height="795" frameX="0" frameY="-63" frameWidth="1146" frameHeight="858"/>
+</TextureAtlas>

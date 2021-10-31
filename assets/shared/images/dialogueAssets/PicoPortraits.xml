@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PicoPortraits.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Pico Angry 10000" x="10" y="10" width="428" height="576"/>
+	<SubTexture name="Pico PISSED0000" x="448" y="10" width="611" height="530"/>
+	<SubTexture name="Pico Angry Gun0000" x="1069" y="10" width="558" height="566"/>
+	<SubTexture name="Pico Cloaked0000" x="1637" y="10" width="400" height="565"/>
+	<SubTexture name="Pico Shocked0000" x="10" y="596" width="380" height="552"/>
+</TextureAtlas>

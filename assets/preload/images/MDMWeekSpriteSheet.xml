@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MDMWeekSpriteSheet.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Prologue0000" x="10" y="10" width="1224" height="406"/>
+	<SubTexture name="Week10000" x="10" y="426" width="1224" height="406"/>
+	<SubTexture name="Week20000" x="10" y="842" width="1224" height="406"/>
+	<SubTexture name="Week30000" x="10" y="1258" width="1224" height="406"/>
+</TextureAtlas>

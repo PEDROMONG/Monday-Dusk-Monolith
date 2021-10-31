@@ -1,0 +1,19 @@
+:cmd_infectedopen:
+:monster:Oh my, why is the house so loud at this hour…?
+:cmd_normal:
+:gfsurprised:!!
+:bfsurprised:!!
+:cmd_infected:
+:lila:Oh… it's you…
+:monsterblush:What's wrong, spider plum? Got some fleshlings that you couldn't make dinner out of?
+:lila:Be quiet, you lemon freak…
+:lila:...but I hate it that you’re right. These brats invaded my home and dared to harm my children.
+:lila:And I cannot get these fleas out of my nest.
+:skidumpcrying:And they didn't even do the spooky dance!!
+:monster:Well…why didn’t you tell me so? It would be oh so fun to hear their screams while I run my fingers through their skin...
+:monster:And after that, I’ll boil ‘em up, alive! They say meat tastes better when it's extra fresh after all…
+:lila:Do whatever you want with those fleas; I don't want them here anymore.
+:monster:Then I'll handle the cooking~ What do you say, fleshlings?
+:cmd_normal:
+:bf:I say...how 'bout i peel off that ugly lemon face of yours first? It might even be an improvement!
+:bfready:Time to make some lemonade!

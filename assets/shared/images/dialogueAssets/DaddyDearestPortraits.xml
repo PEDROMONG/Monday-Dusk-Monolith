@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DaddyDearestPortraits.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DD Alert0000" x="10" y="10" width="556" height="628"/>
+	<SubTexture name="DD Eyeshine0000" x="576" y="10" width="559" height="629"/>
+	<SubTexture name="DD Happy0000" x="1145" y="10" width="556" height="628"/>
+	<SubTexture name="DD ButCool0000" x="10" y="649" width="562" height="628"/>
+	<SubTexture name="DD RestrainedTwo0000" x="582" y="649" width="581" height="570"/>
+</TextureAtlas>

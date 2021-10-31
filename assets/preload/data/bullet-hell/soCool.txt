@@ -1,0 +1,21 @@
+:bfscared:Dude, come on! Why can't you just LISTEN to me!?
+:cmd_infected:
+:pico:You're the one not listening, “Boyfriend”
+:pico:I'm NOT infected, I NEVER have been, and I NEVER will be.
+:cmd_normal:
+:bfscared:Yes you ARE! Why can't you just see that!?
+:cmd_infected:
+:picoshocked:...
+:cmd_normal:
+:bfscared:Pico?
+:cmd_infected:
+:picoshocked:…
+:cmd_normal:
+:bfscared:Pico, what are you-
+:cmd_infected:
+:picoshocked:I'm gonna keep it simple.
+:cmd_normal:
+:bfsurprised:P-PUT DOWN THE GUN!
+:cmd_infected:
+:picoshocked:Get.
+:picoangry:LOST.

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SkidumpPortraits.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Skidump Cheer0000" x="10" y="10" width="761" height="703"/>
+	<SubTexture name="Skidump Cry0000" x="781" y="10" width="840" height="703"/>
+	<SubTexture name="Skidump Main0000" x="10" y="723" width="743" height="703"/>
+</TextureAtlas>

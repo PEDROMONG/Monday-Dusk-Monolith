@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MDM_Week_2_background_1_spiders2.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Spiders 2 instancia 10000" x="0" y="0" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10001" x="295" y="0" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10002" x="590" y="0" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10003" x="885" y="0" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10004" x="1180" y="0" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10005" x="1475" y="0" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10006" x="1770" y="0" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10007" x="2065" y="0" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10008" x="2360" y="0" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10009" x="2655" y="0" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10010" x="2950" y="0" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10011" x="3245" y="0" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10012" x="3540" y="0" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10013" x="0" y="768" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10014" x="295" y="768" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10015" x="590" y="768" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10016" x="885" y="768" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10017" x="1180" y="768" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10018" x="1475" y="768" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10019" x="1770" y="768" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10020" x="2065" y="768" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10021" x="2360" y="768" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10022" x="2655" y="768" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10023" x="2950" y="768" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10024" x="3245" y="768" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10025" x="3540" y="768" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10026" x="0" y="1536" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10027" x="295" y="1536" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10028" x="590" y="1536" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10029" x="885" y="1536" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10030" x="1180" y="1536" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10031" x="1475" y="1536" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10032" x="1770" y="1536" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10033" x="2065" y="1536" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10034" x="2360" y="1536" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10035" x="2655" y="1536" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10036" x="2950" y="1536" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10037" x="3245" y="1536" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10038" x="3540" y="1536" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10039" x="0" y="2304" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10040" x="295" y="2304" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10041" x="590" y="2304" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10042" x="885" y="2304" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10043" x="1180" y="2304" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10044" x="1475" y="2304" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10045" x="1770" y="2304" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10046" x="2065" y="2304" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10047" x="2360" y="2304" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10048" x="2655" y="2304" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10049" x="2950" y="2304" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10050" x="3245" y="2304" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10051" x="3540" y="2304" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10052" x="0" y="3072" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10053" x="295" y="3072" width="285" height="758"/>
+	<SubTexture name="Spiders 2 instancia 10054" x="590" y="3072" width="285" height="758"/>
+</TextureAtlas>

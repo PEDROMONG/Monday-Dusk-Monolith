@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lila_sprites.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lila angry0000" x="0" y="0" width="668" height="507"/>
+	<SubTexture name="lila normal0000" x="742" y="0" width="535" height="642"/>
+</TextureAtlas>
